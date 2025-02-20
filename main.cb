@@ -1,0 +1,11 @@
+age is 15
+
+if age >= 18 {
+    say "You are an adult."
+}
+else if age < 16 {
+    say "You are a minor."
+}
+otherwise {
+    say "Something went wrong lmfao"
+}
